@@ -2,7 +2,7 @@
 
 To reproduce CCAD, you should
 
-#### 1. Download the [Kyoto-2006+](http://www.takakura.com/Kyoto_data/new_data201704/) [$^{[1]}$](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7e5d5b3c53aec8ec833347001305d1b933c13a9a#page=32) Dataset
+#### 1. Download the [Kyoto-2006+](http://www.takakura.com/Kyoto_data/new_data201704/) [ref](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7e5d5b3c53aec8ec833347001305d1b933c13a9a#page=32) Dataset
 
 ```
 python ./datasets/download.py
