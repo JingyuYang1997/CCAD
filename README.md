@@ -8,7 +8,7 @@ To reproduce CCAD, you should
 python ./datasets/download.py
 ```
 
-#### 2. Process the Dataset
+#### 2. Process the Dataset (Refer to [Anoshift](https://proceedings.neurips.cc/paper_files/paper/2022/file/d3bcbcb2a7b0b4716bf24ce4b2ea8d60-Paper-Datasets_and_Benchmarks.pdf))
 
 ```
 parse the txt files --> one-hot encoding ( refer to parse_kyoto_monthly.py and preprocess_onehot_monthly)
