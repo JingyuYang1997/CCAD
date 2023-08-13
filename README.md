@@ -1,4 +1,4 @@
-# Continual Contrastive Anomaly Detection Under Natural Data Distribution Shifts
+# Continual Contrastive Anomaly Detection Under Natural Data Distribution Shifts[paper](https://ieeexplore.ieee.org/document/10208545)
 This is a conference paper published on CACRE 2023.
 
 To reproduce CCAD, you should
